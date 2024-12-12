@@ -13,7 +13,7 @@ You may ask me why I don’t use a ready-made game engine? Because it is fun and
 
 # Find a job
 
-I live in Belgrade now, I am looking for a programming job, I know C++/Java/JavaScript/Golang, I can program in Windows/macOS/Linux/Embedded platforms, I have used MSSQL/Oracle/MySQL/PostgreSQL/Redis/Mongo/Hadoop, I am the CEO of a small company. I design system functions, database structures and complete coding based on requirements. I have worked on software for education/medical/automotive embedding/subway operation data, etc.
+I live in Belgrade now, I am looking for a programming job, I know C++/Java/JavaScript/Golang, I can program in Windows/macOS/Linux/Embedded platforms, I have used MSSQL/Oracle/MySQL/PostgreSQL/Redis/Mongo/Hadoop,
 
 I used to be the CEO of a small company. I designed system functions, database structure and completed coding according to the requirements. I have worked on software for education/medical/automotive embedding/subway operation data, etc.
 
