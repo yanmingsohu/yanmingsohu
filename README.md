@@ -1,4 +1,4 @@
-# Yanming (GitHub: yanmingsohu)
+# Yanming Jing
 
 ## Summary
 Software engineer specializing in systems programming, AI-assisted tooling, and runtime design. Strong background in C++ development, interpreter implementation, and reverse engineering. Experienced in building AI-powered automation tools and low-level systems, including emulators and custom execution environments.
